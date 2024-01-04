@@ -1,5 +1,5 @@
 import './App.css';
-import PriceCard from './components/pricecard/Pricecard/Cardbackground';
+import PriceCard from './components/pricecard/Cardbackground';
 
 function App() {
 
