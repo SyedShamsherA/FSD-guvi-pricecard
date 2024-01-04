@@ -1,5 +1,5 @@
 import './cardbackground.css'
-import Card from './card';
+import Card from './Card';
 
 function PriceCard(){
     const data = [
